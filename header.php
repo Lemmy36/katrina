@@ -7,7 +7,7 @@
 <meta name="generator" content="VSCode">
     <meta name="keywords" content="Dani, Daniela Calliari, Flo, WebDesign, Aushaengeschild, Handwerker, Internetseiten">
     <meta name="description" content="Wir erstellen ihren Internetauftritt im Internet - ihr persoenliches Aushaengeschild">
-    <meta name="abstract" content="jaja">
+   
     <link rel="canonical" href="https://www.ihr-aushaengeschild.de/index.html" />
     <meta name="robots" content="index,follow" />
     <meta charset="utf-8">
