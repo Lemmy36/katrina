@@ -7,8 +7,8 @@ function countDown() {
     day = hour * 24;
 
   //document.getElementById('countdown').innerHTML = day + 'Tage' + hour + 'Stunden' + minute + 'Minuten' + second + 'Sekunden';
-  var startDatum = new Date(2019, 6, 1);
-  var now = new Date();
+  var startDatum = new Date();
+  var now = new Date(2020, 6, 1);
   var distance = now.getTime() - startDatum.getTime();
 
   document.getElementById('days').innerText = Math.floor(distance / (day));
